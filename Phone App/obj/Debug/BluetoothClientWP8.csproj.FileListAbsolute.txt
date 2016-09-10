@@ -1,0 +1,90 @@
+C:\Users\Alec\Documents\BluetoothClientWP8\Bin\Debug\Assets\ApplicationIcon.png
+C:\Users\Alec\Documents\BluetoothClientWP8\Bin\Debug\Assets\Tiles\FlipCycleTileLarge.png
+C:\Users\Alec\Documents\BluetoothClientWP8\Bin\Debug\Assets\Tiles\FlipCycleTileMedium.png
+C:\Users\Alec\Documents\BluetoothClientWP8\Bin\Debug\Assets\Tiles\FlipCycleTileSmall.png
+C:\Users\Alec\Documents\BluetoothClientWP8\Bin\Debug\Assets\Tiles\IconicTileMediumLarge.png
+C:\Users\Alec\Documents\BluetoothClientWP8\Bin\Debug\Assets\Tiles\IconicTileSmall.png
+C:\Users\Alec\Documents\BluetoothClientWP8\Bin\Debug\BluetoothClientWP8.dll
+C:\Users\Alec\Documents\BluetoothClientWP8\Bin\Debug\BluetoothClientWP8.pdb
+C:\Users\Alec\Documents\BluetoothClientWP8\Bin\Debug\AppManifest.xaml
+C:\Users\Alec\Documents\BluetoothClientWP8\Bin\Debug\BluetoothClientWP8_Debug_AnyCPU.xap
+C:\Users\Alec\Documents\BluetoothClientWP8\obj\Debug\App.g.cs
+C:\Users\Alec\Documents\BluetoothClientWP8\obj\Debug\MainPage.g.cs
+C:\Users\Alec\Documents\BluetoothClientWP8\obj\Debug\BluetoothClientWP8.g.resources
+C:\Users\Alec\Documents\BluetoothClientWP8\obj\Debug\BluetoothClientWP8.Resources.AppResources.resources
+C:\Users\Alec\Documents\BluetoothClientWP8\obj\Debug\BluetoothClientWP8.csproj.GenerateResource.Cache
+C:\Users\Alec\Documents\BluetoothClientWP8\obj\Debug\BluetoothClientWP8.dll
+C:\Users\Alec\Documents\BluetoothClientWP8\obj\Debug\BluetoothClientWP8.pdb
+C:\Users\Alec\Documents\BluetoothClientWP8\obj\Debug\XapCacheFile.xml
+C:\Users\Alec\Documents\R2 original\Bin\Debug\Assets\ApplicationIcon.png
+C:\Users\Alec\Documents\R2 original\Bin\Debug\Assets\Tiles\FlipCycleTileLarge.png
+C:\Users\Alec\Documents\R2 original\Bin\Debug\Assets\Tiles\FlipCycleTileMedium.png
+C:\Users\Alec\Documents\R2 original\Bin\Debug\Assets\Tiles\FlipCycleTileSmall.png
+C:\Users\Alec\Documents\R2 original\Bin\Debug\Assets\Tiles\IconicTileMediumLarge.png
+C:\Users\Alec\Documents\R2 original\Bin\Debug\Assets\Tiles\IconicTileSmall.png
+C:\Users\Alec\Documents\R2 original\Bin\Debug\BluetoothClientWP8.dll
+C:\Users\Alec\Documents\R2 original\Bin\Debug\BluetoothClientWP8.pdb
+C:\Users\Alec\Documents\R2 original\Bin\Debug\AppManifest.xaml
+C:\Users\Alec\Documents\R2 original\Bin\Debug\BluetoothClientWP8_Debug_AnyCPU.xap
+C:\Users\Alec\Documents\R2 original\obj\Debug\App.g.cs
+C:\Users\Alec\Documents\R2 original\obj\Debug\MainPage.g.cs
+C:\Users\Alec\Documents\R2 original\obj\Debug\BluetoothClientWP8.g.resources
+C:\Users\Alec\Documents\R2 original\obj\Debug\BluetoothClientWP8.Resources.AppResources.resources
+C:\Users\Alec\Documents\R2 original\obj\Debug\BluetoothClientWP8.csproj.GenerateResource.Cache
+C:\Users\Alec\Documents\R2 original\obj\Debug\BluetoothClientWP8.dll
+C:\Users\Alec\Documents\R2 original\obj\Debug\BluetoothClientWP8.pdb
+C:\Users\Alec\Documents\R2 original\obj\Debug\XapCacheFile.xml
+C:\Users\Alec\Documents\R2 original tester\obj\Debug\App.g.cs
+C:\Users\Alec\Documents\R2 original tester\obj\Debug\MainPage.g.cs
+C:\Users\Alec\Documents\R2 original tester\obj\Debug\BluetoothClientWP8.g.resources
+C:\Users\Alec\Documents\R2 original tester\obj\Debug\BluetoothClientWP8.Resources.AppResources.resources
+C:\Users\Alec\Documents\R2 original tester\obj\Debug\BluetoothClientWP8.csproj.GenerateResource.Cache
+C:\Users\Alec\Documents\R2 original tester\obj\Debug\BluetoothClientWP8.dll
+C:\Users\Alec\Documents\R2 original tester\Bin\Debug\Assets\ApplicationIcon.png
+C:\Users\Alec\Documents\R2 original tester\Bin\Debug\Assets\Tiles\FlipCycleTileLarge.png
+C:\Users\Alec\Documents\R2 original tester\Bin\Debug\Assets\Tiles\FlipCycleTileMedium.png
+C:\Users\Alec\Documents\R2 original tester\Bin\Debug\Assets\Tiles\FlipCycleTileSmall.png
+C:\Users\Alec\Documents\R2 original tester\Bin\Debug\Assets\Tiles\IconicTileMediumLarge.png
+C:\Users\Alec\Documents\R2 original tester\Bin\Debug\Assets\Tiles\IconicTileSmall.png
+C:\Users\Alec\Documents\R2 original tester\Bin\Debug\BluetoothClientWP8.dll
+C:\Users\Alec\Documents\R2 original tester\Bin\Debug\BluetoothClientWP8.pdb
+C:\Users\Alec\Documents\R2 original tester\Bin\Debug\AppManifest.xaml
+C:\Users\Alec\Documents\R2 original tester\Bin\Debug\BluetoothClientWP8_Debug_AnyCPU.xap
+C:\Users\Alec\Documents\R2 original tester\obj\Debug\BluetoothClientWP8.pdb
+C:\Users\Alec\Documents\R2 original tester\obj\Debug\XapCacheFile.xml
+C:\Users\Alec\Documents\R2 Pivot Pages 5-25-13\Bin\Debug\Assets\ApplicationIcon.png
+C:\Users\Alec\Documents\R2 Pivot Pages 5-25-13\Bin\Debug\Assets\Tiles\FlipCycleTileLarge.png
+C:\Users\Alec\Documents\R2 Pivot Pages 5-25-13\Bin\Debug\Assets\Tiles\FlipCycleTileMedium.png
+C:\Users\Alec\Documents\R2 Pivot Pages 5-25-13\Bin\Debug\Assets\Tiles\FlipCycleTileSmall.png
+C:\Users\Alec\Documents\R2 Pivot Pages 5-25-13\Bin\Debug\Assets\Tiles\IconicTileMediumLarge.png
+C:\Users\Alec\Documents\R2 Pivot Pages 5-25-13\Bin\Debug\Assets\Tiles\IconicTileSmall.png
+C:\Users\Alec\Documents\R2 Pivot Pages 5-25-13\Bin\Debug\BluetoothClientWP8.dll
+C:\Users\Alec\Documents\R2 Pivot Pages 5-25-13\Bin\Debug\BluetoothClientWP8.pdb
+C:\Users\Alec\Documents\R2 Pivot Pages 5-25-13\obj\Debug\App.g.cs
+C:\Users\Alec\Documents\R2 Pivot Pages 5-25-13\obj\Debug\MainPage.g.cs
+C:\Users\Alec\Documents\R2 Pivot Pages 5-25-13\obj\Debug\BluetoothClientWP8.g.resources
+C:\Users\Alec\Documents\R2 Pivot Pages 5-25-13\obj\Debug\BluetoothClientWP8.Resources.AppResources.resources
+C:\Users\Alec\Documents\R2 Pivot Pages 5-25-13\obj\Debug\BluetoothClientWP8.csproj.GenerateResource.Cache
+C:\Users\Alec\Documents\R2 Pivot Pages 5-25-13\obj\Debug\BluetoothClientWP8.dll
+C:\Users\Alec\Documents\R2 Pivot Pages 5-25-13\obj\Debug\BluetoothClientWP8.pdb
+C:\Users\Alec\Documents\R2 Pivot Pages 5-25-13\Bin\Debug\AppManifest.xaml
+C:\Users\Alec\Documents\R2 Pivot Pages 5-25-13\Bin\Debug\BluetoothClientWP8_Debug_AnyCPU.xap
+C:\Users\Alec\Documents\R2 Pivot Pages 5-25-13\obj\Debug\XapCacheFile.xml
+C:\Users\Alec\Documents\R2 Phone App 1-24-14\Bin\Debug\Assets\ApplicationIcon.png
+C:\Users\Alec\Documents\R2 Phone App 1-24-14\Bin\Debug\Assets\Tiles\FlipCycleTileLarge.png
+C:\Users\Alec\Documents\R2 Phone App 1-24-14\Bin\Debug\Assets\Tiles\FlipCycleTileMedium.png
+C:\Users\Alec\Documents\R2 Phone App 1-24-14\Bin\Debug\Assets\Tiles\FlipCycleTileSmall.png
+C:\Users\Alec\Documents\R2 Phone App 1-24-14\Bin\Debug\Assets\Tiles\IconicTileMediumLarge.png
+C:\Users\Alec\Documents\R2 Phone App 1-24-14\Bin\Debug\Assets\Tiles\IconicTileSmall.png
+C:\Users\Alec\Documents\R2 Phone App 1-24-14\Bin\Debug\BluetoothClientWP8.dll
+C:\Users\Alec\Documents\R2 Phone App 1-24-14\Bin\Debug\BluetoothClientWP8.pdb
+C:\Users\Alec\Documents\R2 Phone App 1-24-14\Bin\Debug\AppManifest.xaml
+C:\Users\Alec\Documents\R2 Phone App 1-24-14\Bin\Debug\BluetoothClientWP8_Debug_AnyCPU.xap
+C:\Users\Alec\Documents\R2 Phone App 1-24-14\obj\Debug\App.g.cs
+C:\Users\Alec\Documents\R2 Phone App 1-24-14\obj\Debug\MainPage.g.cs
+C:\Users\Alec\Documents\R2 Phone App 1-24-14\obj\Debug\BluetoothClientWP8.g.resources
+C:\Users\Alec\Documents\R2 Phone App 1-24-14\obj\Debug\BluetoothClientWP8.Resources.AppResources.resources
+C:\Users\Alec\Documents\R2 Phone App 1-24-14\obj\Debug\BluetoothClientWP8.csproj.GenerateResource.Cache
+C:\Users\Alec\Documents\R2 Phone App 1-24-14\obj\Debug\BluetoothClientWP8.dll
+C:\Users\Alec\Documents\R2 Phone App 1-24-14\obj\Debug\BluetoothClientWP8.pdb
+C:\Users\Alec\Documents\R2 Phone App 1-24-14\obj\Debug\XapCacheFile.xml

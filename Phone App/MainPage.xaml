@@ -1,0 +1,163 @@
+﻿<phone:PhoneApplicationPage
+    x:Class="BluetoothClientWP8.MainPage"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:phone="clr-namespace:Microsoft.Phone.Controls;assembly=Microsoft.Phone"
+    xmlns:shell="clr-namespace:Microsoft.Phone.Shell;assembly=Microsoft.Phone"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d"
+    FontFamily="{StaticResource PhoneFontFamilyNormal}"
+    FontSize="{StaticResource PhoneFontSizeNormal}"
+    Foreground="{StaticResource PhoneForegroundBrush}"
+    SupportedOrientations="Portrait" Orientation="Portrait"
+    shell:SystemTray.IsVisible="True">
+    
+    <!--LayoutRoot is the root grid where all page content is placed-->
+    <Grid x:Name="LayoutRoot" Background="Transparent">
+        <!--Pivot Control-->
+        <phone:Pivot Title="R2D2">
+            <!--Pivot item one-->
+            <phone:PivotItem Header="Moods">
+                <!--Double line list with text wrapping-->
+                <StackPanel Orientation="Vertical">
+                    <StackPanel Orientation="Horizontal">       
+                        <Button Name="ConnectAppToDeviceButton" Click="ConnectAppToDeviceButton_Click_1" Content="Connect" Width="200" HorizontalAlignment="Left"/>
+                        <TextBox x:Name="DeviceName" HorizontalAlignment="Right" TextWrapping="Wrap" Text="FireFly-E413" Width="200" TextAlignment="Center"/>
+                    </StackPanel>
+                    <StackPanel Orientation="Horizontal">
+                        <Button x:Name="StopButton" Click="StopButton_Click_1" Content="X" Width="100" Height="100"/>
+                        <Button x:Name="PauseButton" Click="PauseButton_Click_1" Content="||" Width="100"/>
+                        <Button x:Name="VolUpButton" Click="VolUpButton_Click_1" Content="+" Width="100"/>
+                        <Button x:Name="VolDownButton" Click="VolDownButton_Click_1" Content="-" Width="100"/>
+                    </StackPanel>
+                    <StackPanel Orientation="Horizontal">
+                        <Button Name="HappyButton" Click="HappyButton_Click_1" Content="Happy" Width="200" Height="100"/>
+                        <Button Name="MadButton" Click="MadButton_Click_1" Content="Mad" Width="200"/>
+                    </StackPanel>
+                    <StackPanel Orientation="Horizontal">
+                        <Button Name="SadButton" Click="SadButton_Click_1" Content="Sad" Width="200" Height="100"/>
+                        <Button x:Name="FamousButton" Click="FamousButton_Click_1" Content="Famous" Width="200"/>
+                    </StackPanel>
+                    <StackPanel Orientation="Horizontal">
+                        <TextBox x:Name="TrackName" HorizontalAlignment="Left" Height="100" TextWrapping="Wrap" Text="209" VerticalAlignment="Top" Width="200" FontSize="40" TextAlignment="Center"/>
+                        <Button x:Name="PlayTrackButton" Click="PlayTrackButton_Click_1" Content="Play" Width="200"/>
+                    </StackPanel>
+                </StackPanel>
+            </phone:PivotItem>
+            <!--Pivot item two-->
+            <phone:PivotItem Header="Songs">
+                <ScrollViewer Grid.Row="1" VerticalScrollBarVisibility="Auto">
+                    <!--Double line list no text wrapping-->
+                <StackPanel>
+                    <StackPanel Orientation="Horizontal">
+                        <Button x:Name="StopButton1" Click="StopButton_Click_1" Content="X" Width="113" Height="100"/>
+                        <Button x:Name="PauseButton1" Click="PauseButton_Click_1" Content="||" Width="114"/>
+                        <Button x:Name="VolUpButton1" Click="VolUpButton_Click_1" Content="+" Width="113"/>
+                        <Button x:Name="VolDownButton1" Click="VolDownButton_Click_1" Content="-" Width="113"/>
+                    </StackPanel>
+                    <Button x:Name="Track01" Click="Track01_Click1" Content="Star Wars Theme"/>
+                    <Button x:Name="Track02" Click="Track02_Click1" Content="Cantina Band"/>
+                    <Button x:Name="Track03" Click="Track03_Click1" Content="The Imperial March"/>
+                    <Button x:Name="Track04" Click="Track04_Click1" Content="The Throne Room"/>
+                    <Button x:Name="Track41" Click="Track41_Click1" Content="Ah Leah"/>
+                    <Button x:Name="Track24" Click="Track24_Click1" Content="All Star"/>
+                    <Button x:Name="Track07" Click="Track07_Click1" Content="Austin Powers Theme"/>
+                    <Button x:Name="Track08" Click="Track08_Click1" Content="Birthday"/>
+                    <Button x:Name="Track33" Click="Track33_Click1" Content="Black Betty"/>
+                    <Button x:Name="Track35" Click="Track35_Click1" Content="Bye Bye Bye"/>
+                    <Button x:Name="Track32" Click="Track32_Click1" Content="Can't Stop"/>
+                    <Button x:Name="Track48" Click="Track48_Click1" Content="Crazy Loop"/>
+                    <Button x:Name="Track47" Click="Track47_Click1" Content="Crazy Train"/>
+                    <Button x:Name="Track28" Click="Track28_Click1" Content="Danger Zone"/>
+                    <Button x:Name="Track49" Click="Track49_Click1" Content="Don't Stop Till You Get Enough"/>
+                    <Button x:Name="Track22" Click="Track22_Click1" Content="Eye of the Tiger"/>
+                    <Button x:Name="Track11" Click="Track11_Click1" Content="Fat Bottomed Girls"/>
+                    <Button x:Name="Track20" Click="Track20_Click1" Content="Friday"/>
+                    <Button x:Name="Track18" Click="Track18_Click1" Content="Gz and Hustlas"/>
+                    <Button x:Name="Track30" Click="Track30_Click1" Content="Hocus Pocus"/>
+                    <Button x:Name="Track40" Click="Track40_Click1" Content="Holiday"/>
+                    <Button x:Name="Track16" Click="Track16_Click1" Content="I Get Around"/>
+                    <Button x:Name="Track05" Click="Track05_Click1" Content="I Get A Kick Out Of You"/>
+                    <Button x:Name="Track46" Click="Track46_Click1" Content="I've Got The World On A String"/>
+                    <Button x:Name="Track09" Click="Track09_Click1" Content="Jump!"/>
+                    <Button x:Name="Track38" Click="Track38_Click1" Content="Johnny B. Goode"/>
+                    <Button x:Name="Track42" Click="Track42_Click1" Content="Lucky"/>
+                    <Button x:Name="Track39" Click="Track39_Click1" Content="Never Been Any Reason"/>
+                    <Button x:Name="Track06" Click="Track06_Click1" Content="New York, New York"/>
+                    <Button x:Name="Track17" Click="Track17_Click1" Content="Next Episode"/>
+                    <Button x:Name="Track15" Click="Track15_Click1" Content="Pinball Wizard"/>
+                    <Button x:Name="Track26" Click="Track26_Click1" Content="Rape Me"/>
+                    <Button x:Name="Track50" Click="Track50_Click1" Content="Rapper's Delight"/>
+                    <Button x:Name="Track21" Click="Track21_Click1" Content="Ridin Dirty"/>
+                    <Button x:Name="Track29" Click="Track29_Click1" Content="Santa Claus is Coming to Town"/>
+                    <Button x:Name="Track31" Click="Track31_Click1" Content="Scar Tissue"/>
+                    <Button x:Name="Track12" Click="Track12_Click1" Content="Shoot To Thrill"/>
+                    <Button x:Name="Track27" Click="Track27_Click1" Content="Smells Like Teen Spirit"/>
+                    <Button x:Name="Track45" Click="Track45_Click1" Content="Smooth"/>
+                    <Button x:Name="Track44" Click="Track44_Click1" Content="Stranglehold"/>
+                    <Button x:Name="Track23" Click="Track23_Click1" Content="Sultans of Swing"/>
+                    <Button x:Name="Track10" Click="Track10_Click1" Content="Sweet Emotion"/>
+                    <Button x:Name="Track36" Click="Track36_Click1" Content="Tik Tok"/>
+                    <Button x:Name="Track14" Click="Track14_Click1" Content="Voodoo Child (Slight Return)"/>
+                    <Button x:Name="Track34" Click="Track34_Click1" Content="Wake Up"/>
+                    <Button x:Name="Track19" Click="Track19_Click1" Content="Welcome to the Club"/>
+                    <Button x:Name="Track37" Click="Track37_Click1" Content="We R Who We R"/>
+                    <Button x:Name="Track43" Click="Track43_Click1" Content="White Wedding"/>
+                    <Button x:Name="Track25" Click="Track25_Click1" Content="You Can Never Tell"/>
+                    <Button x:Name="Track13" Click="Track13_Click1" Content="You Shook Me All Night Long"/>
+
+
+
+
+
+
+                        <!--             <Button x:Name="Track16" Click="Track16_Click1" Content="Voodoo Chile (Slight Return)"/>
+                    <Button x:Name="Track17" Click="Track17_Click1" Content="Voodoo Chile (Slight Return)"/>
+-->
+                </StackPanel>
+                </ScrollViewer>
+            </phone:PivotItem>
+            <phone:PivotItem Header="Sounds">
+                <ScrollViewer Grid.Row="1" VerticalScrollBarVisibility="Auto">
+                    <StackPanel>
+                        <StackPanel Orientation="Horizontal">
+                            <Button x:Name="StopButton2" Click="StopButton_Click_1" Content="X" Width="113" Height="100"/>
+                            <Button x:Name="PauseButton2" Click="PauseButton_Click_1" Content="||" Width="114"/>
+                            <Button x:Name="VolUpButton2" Click="VolUpButton_Click_1" Content="+" Width="113"/>
+                            <Button x:Name="VolDownButton2" Click="VolDownButton_Click_1" Content="-" Width="113"/>
+                        </StackPanel>
+                        <Button x:Name="Sound01" Click="Sound01_Click_1" Content="Talkative"/>
+                        <Button x:Name="Sound02" Click="Sound02_Click_1" Content="Chortle"/>
+                        <Button x:Name="Sound03" Click="Sound03_Click_1" Content="Chillin"/>
+                        <Button x:Name="Sound04" Click="Sound04_Click_1" Content="Overload"/>
+                        <Button x:Name="Sound05" Click="Sound05_Click_1" Content="Groan"/>
+                        <Button x:Name="Sound06" Click="Sound06_Click_1" Content="Motivator Explosion"/>
+                        <Button x:Name="Sound07" Click="Sound07_Click_1" Content="Sad Beep"/>
+                        <Button x:Name="Sound08" Click="Sound08_Click_1" Content="Scream - Long"/>
+                        <Button x:Name="Sound09" Click="Sound09_Click_1" Content="Scream - Short"/>
+                        <Button x:Name="Sound10" Click="Sound10_Click_1" Content="Wolf Whistle"/>
+                        <Button x:Name="Sound11" Click="Sound11_Click_1" Content="Leia Message"/>
+                        <Button x:Name="Sound12" Click="Sound12_Click_1" Content="Oh Behave"/>
+                        <Button x:Name="Sound17" Click="Sound17_Click_1" Content="Do I Make You Horny?"/>                    
+                        <Button x:Name="Sound13" Click="Sound13_Click_1" Content="I Knew You Were Trouble"/>
+                        <Button x:Name="Sound14" Click="Sound14_Click_1" Content="Cantina Band"/>
+                        <Button x:Name="Sound15" Click="Sound15_Click_1" Content="All Panels Open"/>
+                        <Button x:Name="Sound16" Click="Sound16_Click_1" Content="All Panels Close"/>
+
+
+                    </StackPanel>
+                </ScrollViewer>
+            </phone:PivotItem>
+        </phone:Pivot>
+
+        <!--Uncomment to see an alignment grid to help ensure your controls are
+            aligned on common boundaries.  The image has a top margin of -32px to
+            account for the System Tray. Set this to 0 (or remove the margin altogether)
+            if the System Tray is hidden.
+
+            Before shipping remove this XAML and the image itself.-->
+        <!--<Image Source="/Assets/AlignmentGrid.png" VerticalAlignment="Top" Height="800" Width="480" Margin="0,-32,0,0" Grid.Row="0" IsHitTestVisible="False" />-->
+    </Grid>
+
+</phone:PhoneApplicationPage>
