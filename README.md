@@ -11,6 +11,7 @@ Source code for the Windows Phone Application and multiple Arduinos in Alec Bial
 * 1 spinning dome controlled through RC
 * 2 motors controlled through RC
 * CuriousMarc's R2D2 light kit
+* mp3 shield
 
 ## Arduino sketches
 
@@ -21,10 +22,10 @@ Once recieving command from the phone, it sends a commmand to the dome and plays
 
 ### dome
 * flaps - controls flaps and recieves i2c commands, send serials to teecees for lights control
-* teecees - controls lights from CuriousMarc's R2D2 lights kit
-* Teeces_CuriousMarc_v1_3 - randomly moves the holo projectors
+* Teeces_CuriousMarc_v1_3 - controls lights from CuriousMarc's R2D2 lights kit
+* holoprojectors - randomly moves the holo projectors
 
 ## modified arduino ide
-a modified version of the ide is required to upload to the mega2560 with the soundboard extension.
+a modified version of the ide is required to upload to the mega2560 with the mp3 shield.
 this was originally hosted but it is too large of a file for git
 it is available here: https://www.dropbox.com/s/3hzcfauwz8871kr/modified%20arduino%20ide.rar?dl=0
