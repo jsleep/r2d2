@@ -6,6 +6,11 @@ Source code for the Windows Phone Application and multiple Arduinos in Alec Bial
 * 3 Arduino micros for controlling flaps, lights, and the holoprojectors
 * 1 other arduino for receving RC commands for the motors from a RC controller
 * 1 windows phone
+* 10 servos
+* 3 holoprojects, 1 controlled through RC
+* 1 spinning dome controlled through RC
+* 2 motors controlled through RC
+* CuriousMarc's R2D2 light kit
 
 ## Arduino sketches
 
@@ -21,3 +26,5 @@ Once recieving command from the phone, it sends a commmand to the dome and plays
 
 ## modified arduino ide
 a modified version of the ide is required to upload to the mega2560 with the soundboard extension.
+this was originally hosted but it is too large of a file for git
+it is available here: https://www.dropbox.com/s/3hzcfauwz8871kr/modified%20arduino%20ide.rar?dl=0
