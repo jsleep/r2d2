@@ -1,3 +1,0 @@
-#heart
-This folder contains the test and production code for the heart of the R2. Currently it is a Arduino Mega2560 that recieves command via bluetooth from a Windows 8 Phone and then communicates over serial to the dome arduino. I'd like to either upgrade this to communicating over EasyTransfer - which is a open source library for arduino to arduino communication with checksum error checking. 
-We may also just replace this unit overall with a Raspberry Pi - depending on Alec's end goals for the robot.
